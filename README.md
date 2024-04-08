@@ -1,8 +1,7 @@
 ### Olá!! Eu sou Gabriel Henrique 👋
 
 - 🔭 Hoje trabalho como Tecnico em informatica 
-- 🌱 Estudando HTML, CSS, Javascript e Python
-- 🤔 Aceito ajuda em meus projetos e repositores 
+- 🌱 Estudando HTML, CSS, Javascript, Python e Java
 - 😄 Buscando aprendizado para me tornar um desenvolvedor 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabslmendes)](https://github.com/Gabslmendes/github-readme-stats)
